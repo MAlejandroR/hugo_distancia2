@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Mi Blog</title>
-    <link>https://example.org/markdown/index.html</link>
+    <link>https://malejandror.github.io/hugo_distancia2/markdown/index.html</link>
     <description>Recent content in Markdown on Mi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 19:11:19 +0200</lastBuildDate><atom:link href="https://example.org/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 19:11:19 +0200</lastBuildDate><atom:link href="https://malejandror.github.io/hugo_distancia2/markdown/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

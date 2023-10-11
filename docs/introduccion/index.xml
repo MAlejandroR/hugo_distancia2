@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduccion on Mi Blog</title>
-    <link>https://example.org/introduccion/index.html</link>
+    <link>https://malejandror.github.io/hugo_distancia2/introduccion/index.html</link>
     <description>Recent content in Introduccion on Mi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 19:11:10 +0200</lastBuildDate><atom:link href="https://example.org/introduccion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 19:11:10 +0200</lastBuildDate><atom:link href="https://malejandror.github.io/hugo_distancia2/introduccion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conceptos Generales</title>
-      <link>https://example.org/introduccion/conceptos/index.html</link>
+      <link>https://malejandror.github.io/hugo_distancia2/introduccion/conceptos/index.html</link>
       <pubDate>Wed, 11 Oct 2023 19:16:13 +0200</pubDate>
-      <guid>https://example.org/introduccion/conceptos/index.html</guid>
+      <guid>https://malejandror.github.io/hugo_distancia2/introduccion/conceptos/index.html</guid>
       <description>Programación Esto es muy importante</description>
     </item>
   </channel>

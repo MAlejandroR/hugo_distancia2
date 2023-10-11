@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/introduccion/conceptos/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/introduccion/conceptos/index.html</loc>
     <lastmod>2023-10-11T19:16:13+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/index.html</loc>
     <lastmod>2023-10-11T19:16:13+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/markdown/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/markdown/index.html</loc>
     <lastmod>2023-10-11T19:11:19+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/introduccion/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/introduccion/index.html</loc>
     <lastmod>2023-10-11T19:11:10+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://example.org/tags/index.html</loc>
+    <loc>https://malejandror.github.io/hugo_distancia2/tags/index.html</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://malejandror.github.io/hugo_distancia2/'
 languageCode = 'en-us'
 title = 'Mi Blog'
 theme="relearn"
